@@ -1,0 +1,6 @@
+{
+  "name": "منصة جداول المواقيت للتعليم الابتدائي",
+  "description": "منصة رقمية تفاعلية لاختيار نوع الدوام وضبط إعدادات المؤسسة والأساتذة وتوليد وطباعة جداول المواقيت الأسبوعية للتعليم الابتدائي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
